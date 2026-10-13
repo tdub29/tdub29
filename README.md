@@ -1,7 +1,7 @@
 <!--
 Owner: Trevor White. Last reviewed 2026-10-12.
 Review when: role or title changes, a new public project ships, a pinned repo goes stale, a job search starts or ends.
-Facts come from job-search/application-materials/certified-resume-bullets.md; do not add a number that is not there.
+Every number here matches a sent resume; do not add one that does not.
 -->
 
 # Trevor White
@@ -24,4 +24,6 @@ T-SQL, Python, DAX, Power Query M, dbt, Azure Synapse, Power BI semantic models,
 
 ## More
 
-Portfolio: [twhite.dev](https://twhite.dev)
+Portfolio and more of the Good360 work: [twhite.dev](https://twhite.dev).
+
+<sub>Updated October 2026.</sub>
