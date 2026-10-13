@@ -6,7 +6,7 @@ Every number here matches a sent resume; do not add one that does not.
 
 # Trevor White
 
-Analytics engineer. I built and own the semantic layer behind Good360's reporting on $3.9B in annual donated product: one governed definition for each of 128 metrics, used by 20 departments in Power BI and by AI agents through MCP servers.
+Analytics engineer. I built and own the semantic layer behind Good360's reporting on $3.9B in annual donated product: one governed definition for each of 128 metrics, used by 20 departments in Power BI and by AI agents through four MCP servers.
 
 That work is private. The public repos here are side projects where the same methods show up: modeled warehouses, tested pipelines, and models that say how much they can actually predict.
 
