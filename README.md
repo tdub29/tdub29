@@ -17,7 +17,7 @@ Here are a few public projects and products I have been building:
 - [speech-grading](https://github.com/tdub29/speech-grading) is Orator, an offline-first Python CLI that grades spoken transcripts and audio on filler words, pacing, pauses, and hesitation word-choice stumbles.
 - [scout-skills](https://github.com/tdub29/scout-skills) combines a local skill ranker with a curated and adapted collection of upstream skills for Claude Code, Codex, and Cursor, built to search skill descriptions on disk without blowing out context budgets.
 - [PRTL](https://prtlhome.com) turns digital displays around a home into mobile-controlled art and information frames (Expo React Native controller, Cloud Run rendering API, and kiosk frame runtime).
-- Under Par Fantasy Golf is a salary-cap PGA fantasy league web app where players draft five to eight golfers under a $300 cap and track live tournament scoring (Next.js, Prisma, Postgres, and Cloudflare Workers).
+- [Under Par Fantasy Golf](https://underparfantasy.com) is a salary-cap PGA fantasy league web app where players draft five to eight golfers under a $300 cap and track live tournament scoring (Next.js, Prisma, Postgres, and Cloudflare Workers).
 
 Smaller experiments: [Bart](https://github.com/tdub29/Bart) flags college basketball and NHL games where model lines disagree with Kalshi prices, and [WanBattedBall](https://github.com/tdub29/WanBattedBall) is a CatBoost batted-ball notebook from Nick Wan's Kaggle competition.
 
