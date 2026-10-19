@@ -5,7 +5,7 @@ Review when: role or title changes, a new public project ships, a pinned repo go
 
 # Trevor White
 
-I spend most of my free time building sports models for baseball, college basketball, and dynasty fantasy football, along with a few consumer apps and developer tools. By day I am an analytics engineer at Good360, where I work mainly in SQL and Python with DAX, Power BI, and MCP.
+I spend most of my free time building sports models for baseball, college basketball, and dynasty fantasy football, along with a few consumer apps and developer tools. By day I am an analytics engineer at Good360, a $3.9B nonprofit, where I work mainly in SQL and Python with DAX, Power BI, and MCP.
 
 Here are a few public projects and products I have been building:
 
