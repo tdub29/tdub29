@@ -10,7 +10,7 @@ I spend most of my free time building sports models for baseball, college basket
 Here are a few public projects and products I have been building:
 
 - [baseball-analytics](https://github.com/tdub29/baseball-analytics) contains NCAA scouting tools used by University of San Diego coaches alongside MLB pitch and contact models, run-expectancy forecasting, batter-pitcher matchup models, and Monte Carlo game simulation.
-- [Kicker-Analysis](https://github.com/tdub29/Kicker-Analysis) forecasts weekly NFL kicker fantasy scoring and shows why touchdown and extra-point volume is more predictable than field-goal attempts, which have negative out-of-sample skill.
+- [Kicker-Analysis](https://github.com/tdub29/Kicker-Analysis) forecasts weekly NFL kicker fantasy scoring and compares ranking and count models through season-forward backtests.
 - [CBB](https://github.com/tdub29/CBB) tests March Madness models to see whether team statistics add predictive information beyond tournament seed.
 - [fantasy-football](https://github.com/tdub29/fantasy-football) is a work-in-progress dynasty fantasy football hub and trade simulator built on Sleeper league feeds and KeepTradeCut market values.
 - [boondock](https://github.com/tdub29/boondock) is an offline browser map that shows where dispersed camping is legal on US public land and cites the rules set by each land manager.
