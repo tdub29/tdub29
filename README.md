@@ -1,24 +1,38 @@
 <!--
-Owner: Trevor White. Last reviewed 2026-10-19.
-Review when: role or title changes, a new public project ships, a pinned repo goes stale, a job search starts or ends.
+Owner: Trevor White. Last reviewed 2026-10-26.
+Review when: role or title changes, a new public project ships, a pinned repo is archived, or a project changes maintenance status.
 -->
 
 # Trevor White
 
-I spend most of my free time building sports models for baseball, college basketball, and dynasty fantasy football, along with a few consumer apps and developer tools. By day I am an analytics engineer at Good360, a $3.9B nonprofit, where I work mainly in SQL and Python with DAX, Power BI, and MCP.
+I build data platforms and AI agents with SQL and Python. At Good360, I'm a Senior Data Scientist working across the warehouse, semantic layer and tools people use to get answers from the data.
 
-Here are a few public projects and products I have been building:
+- I own and operate a Synapse warehouse and its ingestion pipelines across 10 source systems and hundreds of millions of rows.
+- I built a governed semantic layer, four MCP servers and five AI agents for analytics, project management, disaster monitoring and Power BI documentation.
+- I integrated a donation channel that accounted for 60% of the organization's volume. The resulting cleanup added $1.42B in recipient attribution and raised Form 990 Schedule I coverage from 53% to 94%.
+- I took the analytics platform from zero to 1,000+ monthly views across 20 departments and secured $1.5M in grants for the team's technology development.
 
-- [baseball-analytics](https://github.com/tdub29/baseball-analytics) contains NCAA scouting tools used by University of San Diego coaches alongside MLB pitch and contact models, run-expectancy forecasting, batter-pitcher matchup models, and Monte Carlo game simulation.
-- [Kicker-Analysis](https://github.com/tdub29/Kicker-Analysis) forecasts weekly NFL kicker fantasy scoring and compares ranking and count models through season-forward backtests.
-- [CBB](https://github.com/tdub29/CBB) tests March Madness models to see whether team statistics add predictive information beyond tournament seed.
-- [fantasy-football](https://github.com/tdub29/fantasy-football) is a work-in-progress dynasty fantasy football hub and trade simulator built on Sleeper league feeds and KeepTradeCut market values.
-- [boondock](https://github.com/tdub29/boondock) is an offline browser map that shows where dispersed camping is legal on US public land and cites the rules set by each land manager.
-- [speech-grading](https://github.com/tdub29/speech-grading) is Orator, an offline-first Python CLI that grades spoken transcripts and audio on filler words, pacing, pauses, and hesitation word-choice stumbles.
-- [scout-skills](https://github.com/tdub29/scout-skills) combines a local skill ranker with a curated and adapted collection of upstream skills for Claude Code, Codex, and Cursor, built to search skill descriptions on disk without blowing out context budgets.
-- [PRTL](https://prtlhome.com) turns digital displays around a home into mobile-controlled art and information frames (Expo React Native controller, Cloud Run rendering API, and kiosk frame runtime).
-- [Under Par Fantasy Golf](https://underparfantasy.com) is a salary-cap PGA fantasy league web app where players draft five to eight golfers under a $300 cap and track live tournament scoring (Next.js, Prisma, Postgres, and Cloudflare Workers).
+More on that work at [twhite.dev](https://twhite.dev).
 
-Smaller experiments: [Bart](https://github.com/tdub29/Bart) flags college basketball and NHL games where model lines disagree with Kalshi prices, and [WanBattedBall](https://github.com/tdub29/WanBattedBall) is a CatBoost batted-ball notebook from Nick Wan's Kaggle competition.
+## Public code
 
-More of my work and contact details are at [twhite.dev](https://twhite.dev).
+Start with [scout-skills](https://github.com/tdub29/scout-skills), a local skill ranker and curated library for Claude Code, Codex and Cursor. It searches skill descriptions on disk so agents can find the instructions they need without loading the whole library.
+
+[Boondock](https://github.com/tdub29/boondock) is an offline browser map for dispersed camping on US public land. It combines geospatial data with the rules set by each land manager to answer where someone can camp.
+
+## Sports modeling
+
+[baseball-analytics](https://github.com/tdub29/baseball-analytics) brings together NCAA scouting tools used by University of San Diego coaches, a dbt and DuckDB warehouse, and MLB pitch and game models. It includes pitcher and hitter apps, run-expectancy forecasting, batter-pitcher matchups and Monte Carlo game simulation. The scouting apps and coach board are in active use.
+
+- [Kicker-Analysis](https://github.com/tdub29/Kicker-Analysis): weekly NFL kicker forecasts with season-forward backtests and baseline comparisons.
+- [CBB](https://github.com/tdub29/CBB): March Madness models testing whether team statistics add information beyond tournament seed.
+- [fantasy-football](https://github.com/tdub29/fantasy-football): a dynasty league hub and trade simulator using Sleeper feeds and KeepTradeCut values. Still a work in progress.
+- [WanBattedBall](https://github.com/tdub29/WanBattedBall): a CatBoost batted-ball notebook from Nick Wan's Kaggle competition.
+
+## Other tools and products
+
+[Orator](https://github.com/tdub29/speech-grading) grades spoken transcripts and audio on filler words, pacing and pauses. [Bart](https://github.com/tdub29/Bart) compares model lines with Kalshi prices for college basketball and NHL games.
+
+[PRTL](https://prtlhome.com) turns home displays into mobile-controlled art and information frames. [Under Par Fantasy Golf](https://underparfantasy.com) runs salary-cap PGA leagues with live tournament scoring. These links open the products; their source repositories are private.
+
+For project details or to get in touch, visit [twhite.dev](https://twhite.dev).
