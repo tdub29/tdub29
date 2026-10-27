@@ -20,6 +20,8 @@ Start with [scout-skills](https://github.com/tdub29/scout-skills), a local skill
 
 [Boondock](https://github.com/tdub29/boondock) is an offline browser map for dispersed camping on US public land. It combines geospatial data with the rules set by each land manager to answer where someone can camp.
 
+[Sample dbt/DuckDB warehouse](https://github.com/tdub29/baseball-analytics#try-the-sample-dbt-warehouse) builds staging, intermediate and mart models from committed baseball fixtures, with model contracts and data tests. Run it locally without credentials.
+
 ## Sports modeling
 
 [baseball-analytics](https://github.com/tdub29/baseball-analytics) brings together NCAA scouting tools used by University of San Diego coaches, a dbt and DuckDB warehouse, and MLB pitch and game models. It includes pitcher and hitter apps, run-expectancy forecasting, batter-pitcher matchups and Monte Carlo game simulation. The scouting apps and coach board are in active use.
