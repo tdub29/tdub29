@@ -14,6 +14,12 @@ I build data platforms and AI agents with SQL and Python. At Good360, I'm a Seni
 
 More on that work at [twhite.dev](https://twhite.dev).
 
+## Products
+
+- [PRTL](https://prtlhome.com) turns home displays into mobile-controlled art and information frames.
+- [Under Par Fantasy Golf](https://underparfantasy.com) runs salary-cap PGA leagues with live tournament scoring.
+- **DocPBI** documents Power BI reports, tracks model changes and writes definitions back into the model. The SaaS also includes an API-powered assistant and an MCP connector.
+
 ## Public code
 
 [Scout Skills](https://github.com/tdub29/scout-skills) is a local skill ranker and curated library for Claude Code, Codex and Cursor. It searches skill descriptions on disk so agents can find the instructions they need without loading the whole library.
@@ -32,11 +38,6 @@ More on that work at [twhite.dev](https://twhite.dev).
 - [CBB](https://github.com/tdub29/CBB): March Madness models testing whether team statistics add information beyond tournament seed.
 - [fantasy-football](https://github.com/tdub29/fantasy-football): a dynasty league hub and trade simulator using Sleeper feeds and KeepTradeCut values. Still a work in progress.
 - [WanBattedBall](https://github.com/tdub29/WanBattedBall): a CatBoost batted-ball notebook from Nick Wan's Kaggle competition.
-
-## Other tools and products
-
-[Bart](https://github.com/tdub29/Bart) compares model lines with Kalshi prices for college basketball and NHL games.
-
-[PRTL](https://prtlhome.com) turns home displays into mobile-controlled art and information frames. [Under Par Fantasy Golf](https://underparfantasy.com) runs salary-cap PGA leagues with live tournament scoring. These links open the products; their source repositories are private.
+- [Bart](https://github.com/tdub29/Bart): compares model lines with Kalshi prices for college basketball and NHL games.
 
 For project details or to get in touch, visit [twhite.dev](https://twhite.dev).
