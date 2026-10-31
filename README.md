@@ -16,7 +16,7 @@ More on that work at [twhite.dev](https://twhite.dev).
 
 ## Public code
 
-Start with [scout-skills](https://github.com/tdub29/scout-skills), a local skill ranker and curated library for Claude Code, Codex and Cursor. It searches skill descriptions on disk so agents can find the instructions they need without loading the whole library.
+[Scout Skills](https://github.com/tdub29/scout-skills) is a local skill ranker and curated library for Claude Code, Codex and Cursor. It searches skill descriptions on disk so agents can find the instructions they need without loading the whole library.
 
 [Boondock](https://github.com/tdub29/boondock) is an offline browser map for dispersed camping on US public land. It combines geospatial data with the rules set by each land manager to answer where someone can camp.
 
