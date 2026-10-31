@@ -24,7 +24,7 @@ More on that work at [twhite.dev](https://twhite.dev).
 
 ## Sports modeling
 
-[baseball-analytics](https://github.com/tdub29/baseball-analytics) brings together NCAA scouting tools used by University of San Diego coaches, a dbt and DuckDB warehouse, and MLB pitch and game models. It includes pitcher and hitter apps, run-expectancy forecasting, batter-pitcher matchups and Monte Carlo game simulation. The scouting apps and coach board are in active use.
+[baseball-analytics](https://github.com/tdub29/baseball-analytics) brings together NCAA scouting tools used by University of San Diego coaches, a dbt and DuckDB warehouse, and MLB pitch and game models. It includes pitcher and hitter apps, run-expectancy forecasting, batter-pitcher matchups and Monte Carlo game simulation. The scouting apps and transfer portal board have been relied on by USD's back-to-back WCC regular season championship teams.
 
 - [Kicker-Analysis](https://github.com/tdub29/Kicker-Analysis): weekly NFL kicker forecasts with season-forward backtests and baseline comparisons.
 - [CBB](https://github.com/tdub29/CBB): March Madness models testing whether team statistics add information beyond tournament seed.
