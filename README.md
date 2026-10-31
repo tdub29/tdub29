@@ -18,6 +18,8 @@ More on that work at [twhite.dev](https://twhite.dev).
 
 [Scout Skills](https://github.com/tdub29/scout-skills) is a local skill ranker and curated library for Claude Code, Codex and Cursor. It searches skill descriptions on disk so agents can find the instructions they need without loading the whole library.
 
+[Orator](https://github.com/tdub29/speech-grading) turns recordings or transcripts into scored speech reports with highlighted delivery and word-choice feedback. It combines verbatim speech recognition with timing and acoustic analysis, and can suggest stronger wording where someone hesitates.
+
 [Boondock](https://github.com/tdub29/boondock) is an offline browser map for dispersed camping on US public land. It combines geospatial data with the rules set by each land manager to answer where someone can camp.
 
 [Sample dbt/DuckDB warehouse](https://github.com/tdub29/baseball-analytics#try-the-sample-dbt-warehouse) builds staging, intermediate and mart models from committed baseball fixtures, with model contracts and data tests. Run it locally without credentials.
@@ -33,7 +35,7 @@ More on that work at [twhite.dev](https://twhite.dev).
 
 ## Other tools and products
 
-[Orator](https://github.com/tdub29/speech-grading) grades spoken transcripts and audio on filler words, pacing and pauses. [Bart](https://github.com/tdub29/Bart) compares model lines with Kalshi prices for college basketball and NHL games.
+[Bart](https://github.com/tdub29/Bart) compares model lines with Kalshi prices for college basketball and NHL games.
 
 [PRTL](https://prtlhome.com) turns home displays into mobile-controlled art and information frames. [Under Par Fantasy Golf](https://underparfantasy.com) runs salary-cap PGA leagues with live tournament scoring. These links open the products; their source repositories are private.
 
