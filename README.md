@@ -34,9 +34,10 @@ More on that work at [twhite.dev](https://twhite.dev).
 
 [baseball-analytics](https://github.com/tdub29/baseball-analytics) brings together NCAA scouting tools used by University of San Diego coaches, a dbt and DuckDB warehouse, and MLB pitch and game models. It includes pitcher and hitter apps, run-expectancy forecasting, batter-pitcher matchups and Monte Carlo game simulation. The scouting apps and transfer portal board have been relied on by USD's back-to-back WCC regular season championship teams.
 
+[Fantasy Football](https://github.com/tdub29/fantasy-football) combines college-to-NFL prospect modeling with dynasty roster analysis and Monte Carlo trade simulation. Its prospect research compares position-specific college-production and draft-pick models using time-ordered backtests and draft-class bootstrapping.
+
 - [Kicker-Analysis](https://github.com/tdub29/Kicker-Analysis): weekly NFL kicker forecasts with season-forward backtests and baseline comparisons.
 - [CBB](https://github.com/tdub29/CBB): March Madness models testing whether team statistics add information beyond tournament seed.
-- [fantasy-football](https://github.com/tdub29/fantasy-football): a dynasty league hub and trade simulator using Sleeper feeds and KeepTradeCut values. Still a work in progress.
 - [WanBattedBall](https://github.com/tdub29/WanBattedBall): a CatBoost batted-ball notebook from Nick Wan's Kaggle competition.
 - [Bart](https://github.com/tdub29/Bart): compares model lines with Kalshi prices for college basketball and NHL games.
 
