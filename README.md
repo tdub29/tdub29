@@ -18,7 +18,7 @@ More on that work at [twhite.dev](https://twhite.dev).
 
 - [PRTL](https://prtlhome.com) turns home displays into mobile-controlled art and information frames.
 - [Under Par Fantasy Golf](https://underparfantasy.com) runs salary-cap PGA leagues with live tournament scoring.
-- **DocPBI** documents Power BI reports, tracks model changes and writes definitions back into the model. The SaaS also includes an API-powered assistant and an MCP connector.
+- [DocPBI](https://docpbi.com) documents Power BI reports, tracks model changes and writes definitions back into the model. The SaaS also includes an API-powered assistant and an MCP connector.
 
 ## Public code
 
