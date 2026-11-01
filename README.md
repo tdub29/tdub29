@@ -22,7 +22,7 @@ More on that work at [twhite.dev](https://twhite.dev).
 
 ## Public code
 
-[Scout Skills](https://github.com/tdub29/scout-skills) is a local skill ranker and curated library for Claude Code, Codex and Cursor. It searches skill descriptions on disk so agents can find the instructions they need without loading the whole library.
+[Scout Skills](https://github.com/tdub29/scout-skills) is a local skill ranker and curated library for coding agents, including Claude Code, Codex and Cursor. It searches skill descriptions on disk so agents can find the instructions they need without loading the whole library.
 
 [Orator](https://github.com/tdub29/speech-grading) turns recordings or transcripts into scored speech reports with highlighted delivery and word-choice feedback. It combines verbatim speech recognition with timing and acoustic analysis, and can suggest stronger wording where someone hesitates.
 
