@@ -28,7 +28,7 @@ More on that work at [twhite.dev](https://twhite.dev).
 
 [Boondock](https://github.com/tdub29/boondock) is an offline browser map for dispersed camping on US public land. It combines geospatial data with the rules set by each land manager to answer where someone can camp.
 
-[Sample dbt/DuckDB warehouse](https://github.com/tdub29/baseball-analytics#try-the-sample-dbt-warehouse) builds staging, intermediate and mart models from committed baseball fixtures, with model contracts and data tests. Run it locally without credentials.
+[dbt/DuckDB baseball warehouse](https://github.com/tdub29/baseball-analytics#try-the-sample-dbt-warehouse) models pitch data through staging, intermediate and mart layers, with an incremental fact table, model contracts and data tests in CI. Includes sample data for a local build without credentials.
 
 ## Sports modeling
 
