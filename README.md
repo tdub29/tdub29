@@ -7,8 +7,8 @@ Review when: role or title changes, a new public project ships, a pinned repo is
 
 I build data platforms and AI agents with SQL and Python. At Good360, I'm a Senior Data Scientist working across the warehouse, semantic layer and tools people use to get answers from the data.
 
-- I own and operate a Synapse warehouse and its ingestion pipelines across 10 source systems and hundreds of millions of rows.
-- I built a governed semantic layer, four MCP servers and five AI agents for analytics, project management, disaster monitoring and Power BI documentation.
+- I own and operate a Synapse warehouse and its ingestion pipelines across 10 source systems and hundreds of millions of rows, including cutting a failing three-hour nightly load to 194 seconds.
+- I built a governed semantic layer, four MCP servers and five AI agents for analytics, project management, disaster monitoring and Power BI documentation. The MCP connector's answers are evaluated on 500 staff questions for accuracy and confidently wrong answers.
 - I integrated a donation channel that accounted for 60% of the organization's volume. The resulting cleanup added $1.42B in recipient attribution and raised Form 990 Schedule I coverage from 53% to 94%.
 - I took the analytics platform from zero to 1,000+ monthly views across 20 departments and secured $1.5M in grants for the team's technology development.
 
